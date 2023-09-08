@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/CorvusCodex/RouletteAi/blob/main/RouletteAi.png?raw=true">
+</p>
+
 # RouletteAi
 RouletteAi is a roulette artificial intelligence that uses machine learning to predict the next drawn number.
 
