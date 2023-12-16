@@ -5,7 +5,7 @@
 # RouletteAi
 RouletteAi is a roulette artificial intelligence that uses machine learning to predict the next drawn number.
 
-## For people without technical experience you can buy the compiled standalone application with GUI for windows from here:
+## For people without technical experience you can buy the compiled standalone application now with GUI for windows from here:
 https://www.buymeacoffee.com/CorvusCodex/e/166022
 
 
