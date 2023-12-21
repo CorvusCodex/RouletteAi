@@ -11,9 +11,6 @@ https://www.buymeacoffee.com/CorvusCodex/e/166022
 ## RouletteAi 10,000,000 dataset:
 https://www.buymeacoffee.com/corvuscodex/e/193406
 
-## RouletteAi Pretrained + GUI:
-https://www.buymeacoffee.com/corvuscodex/e/194101
-
 
 ## Installation
 
