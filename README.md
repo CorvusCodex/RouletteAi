@@ -33,6 +33,7 @@ Once you have the data file, you can run the `RouletteAi.py` script to train the
 >Support my work:<br>
 >BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
 >ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
+>SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7<br>
 >Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex
 
 ## Disclaimer
@@ -41,7 +42,7 @@ The code within this repository comes with no guarantee, the use of this code is
 Please keep in mind that while RouletteAi.py uses advanced machine learning techniques to predict Roulette numbers, there is no guarantee that its predictions will be accurate. Roulette results are inherently random and unpredictable, so it is important to use RouletteAi responsibly and not rely solely on its predictions.
 
 
-MIT License
+## MIT License
 
 Copyright (c) 2025 CorvusCodex
 
