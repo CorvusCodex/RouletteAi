@@ -50,8 +50,8 @@ max_value = np.max(data)
 num_features = 1
 
 model = keras.Sequential()
-model.add(layers.Embedding(input_dim=max_value+1, output_dim=64))
-model.add(layers.LSTM(256))
+model.add(layers.Embedding(input_dim=max_value+1, output_dim=51200))
+model.add(layers.LSTM(104800))
 model.add(layers.Dense(num_features, activation='softmax'))  # Set the number of units to match the number of features
 
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
