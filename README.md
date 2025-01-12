@@ -7,6 +7,9 @@ RouletteAi is a roulette artificial intelligence that uses machine learning to p
 
 # If you need powerfull and advanced AI with GUI, you can get the compiled standalone application for windows + Fast Fast Train for windows from here:
 https://www.buymeacoffee.com/CorvusCodex/e/166022
+-----
+
+
 
 ## RouletteAi 10,000,000 dataset:
 https://www.buymeacoffee.com/corvuscodex/e/193406
