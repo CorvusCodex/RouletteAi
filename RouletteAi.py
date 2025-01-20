@@ -15,6 +15,7 @@ print("Licence : MIT License")
 print("Support my work: ")
 print("BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3")
 print("ETH / BNB /POLYGON: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0")
+print("SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7")
 print("Donate/Support/Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex")
 print("============================================================")
 
