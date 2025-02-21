@@ -4,7 +4,6 @@ from tensorflow import keras
 from keras import layers
 from art import text2art
 
-# Generate ASCII art with the text "RouletteAi"
 ascii_art = text2art("RouletteAi")
 
 print("============================================================")
