@@ -18,7 +18,6 @@ print("SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7")
 print("Donate/Support/Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex")
 print("============================================================")
 
-# Print the generated ASCII art
 print(ascii_art)
 print("Roulette prediction artificial intelligence")
 
