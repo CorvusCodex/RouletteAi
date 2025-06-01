@@ -21,7 +21,6 @@ print("============================================================")
 print(ascii_art)
 print("Roulette prediction artificial intelligence")
 
-# Load data from file, ignoring white spaces and accepting unlimited length numbers
 data = np.genfromtxt('data.txt', delimiter='\n', dtype=int)
 
 # Filter out numbers that are not between 0 and 36 (inclusive)
