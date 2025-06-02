@@ -23,7 +23,6 @@ print("Roulette prediction artificial intelligence")
 
 data = np.genfromtxt('data.txt', delimiter='\n', dtype=int)
 
-# Filter out numbers that are not between 0 and 36 (inclusive)
 data = data[(data >= 0) & (data <= 36)]
 
 # Define the length of the input sequences
