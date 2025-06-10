@@ -25,7 +25,6 @@ data = np.genfromtxt('data.txt', delimiter='\n', dtype=int)
 
 data = data[(data >= 0) & (data <= 36)]
 
-# Define the length of the input sequences
 sequence_length = 10
 
 # Create sequences of fixed length from the data
