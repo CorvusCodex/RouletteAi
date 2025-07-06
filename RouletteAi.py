@@ -33,7 +33,6 @@ sequences = np.array([data[i:i+sequence_length] for i in range(len(data)-sequenc
 # Create target values which are the next number after each sequence
 targets = data[sequence_length:]
 
-# Split the data into training and validation sets
 train_data = sequences[:int(0.8*len(sequences))]
 train_targets = targets[:int(0.8*len(targets))]
 val_data = sequences[int(0.8*len(sequences)):]
