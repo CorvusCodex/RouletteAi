@@ -40,7 +40,6 @@ val_targets = targets[int(0.8*len(targets)):]
 
 max_value = np.max(data)
 
-# Set the number of features to 1
 num_features = 1
 
 model = keras.Sequential()
