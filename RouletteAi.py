@@ -37,7 +37,6 @@ train_data = sequences[:int(0.8*len(sequences))]
 train_targets = targets[:int(0.8*len(targets))]
 val_data = sequences[int(0.8*len(sequences)):]
 val_targets = targets[int(0.8*len(targets)):]
-
 max_value = np.max(data)
 
 num_features = 1
