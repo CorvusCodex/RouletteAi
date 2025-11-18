@@ -5,9 +5,21 @@
 # RouletteAi
 RouletteAi is a roulette artificial intelligence that uses machine learning to predict the next drawn number.
 
-# If you need powerfull and advanced AI with GUI, you can get the compiled standalone application for windows + Fast Fast Train for windows from here:
-https://www.buymeacoffee.com/CorvusCodex/e/166022
------
+## If you need powerfull and advanced AI's with GUI, you can get the compiled standalone applications from here:
+
+### LotteryAI+ for Windows 11 OS from here:
+
+https://www.buymeacoffee.com/CorvusCodex/e/155047?from_page=extras
+
+## Basic lightweight Lottery AI:
+
+https://buymeacoffee.com/corvuscodex/e/467187
+
+### (Business users) Advanced LotteryAI+ Hyperion for Windows 11 OS from here:
+
+https://buymeacoffee.com/corvuscodex/e/426958
+
+This AI is optimised for CUDA and Threadripper and multiple GPUs.
 
 
 
