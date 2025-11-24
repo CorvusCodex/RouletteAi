@@ -22,11 +22,6 @@ https://buymeacoffee.com/corvuscodex/e/426958
 This AI is optimised for CUDA and Threadripper and multiple GPUs.
 
 
-
-## RouletteAi 10,000,000 dataset :
-https://www.buymeacoffee.com/corvuscodex/e/193406
-
-
 ## Installation
 
 To install RouletteAi, you will need to have Python 3.x and the following libraries installed:
